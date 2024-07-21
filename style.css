@@ -804,7 +804,7 @@ a{
     }
     
     html, body{
-        cursor:initial;
+        cursor:auto;
     }
 
     .mousefollower{
