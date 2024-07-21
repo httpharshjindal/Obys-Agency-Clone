@@ -63,7 +63,7 @@ function loaderanime(){
         stagger:.2,
 
     })
-    tl.from("#page1",{
+    tl.from("#page1, #page2, #page3, #page4",{
         y:1600,
         duration:1.5,
         opacity:0,
