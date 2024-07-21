@@ -1,5 +1,5 @@
 
-# OBYS Agency Website Landing Page 
+# [OBYS Agency Website Landing Page]{https://httpharshjindal.github.io/Obys-Agency-Clone/}
 
 This project is a clone of the OBYS Agency website, built using HTML, CSS, and JavaScript. The website features various interactive elements and animations, leveraging powerful libraries such as GSAP, Shery.js, and Textillate.js. The key highlights of this project include a video pause/play button and the eye-catching "GoEye" effect implemented with Shery.js.
 
@@ -7,7 +7,7 @@ This project is a clone of the OBYS Agency website, built using HTML, CSS, and J
 
 ## Links
 
-**Website** : fdsfdsfd  
+**Website** : https://httpharshjindal.github.io/Obys-Agency-Clone/
 
 **Demo** : http video link 
 
