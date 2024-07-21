@@ -231,7 +231,7 @@ projheading.forEach(function(elem){
 
 
 
-// loaderanime();
+loaderanime();
 projectheading();
 cursoranime();
 sherygoeyeffect();
