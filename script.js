@@ -233,9 +233,17 @@ projheading.forEach(function(elem){
 
 loaderanime();
 projectheading();
-cursoranime();
 sherygoeyeffect();
 playicon();
 flaganimaiton();
 
+function screen_resize() {
+    var h = window.innerHeight;
+    var w = window.innerWidth;
 
+    if(w <= 600) {
+    } else {
+        cursoranime();
+    }
+}
+screen_resize()
