@@ -16,22 +16,22 @@ This project is a clone of the OBYS Agency website, built using HTML, CSS, and J
 
 ## Features
 
-- Responsive Design: Built with Tailwind CSS to ensure the website is fully responsive and visually appealing across different devices.
+- **Responsive Design:** Built with Tailwind CSS to ensure the website is fully responsive and visually appealing across different devices.
 
-- Interactive Animations: Utilized GSAP (GreenSock Animation Platform) to create smooth and engaging animations.
-- Dynamic Text Effects: Integrated Textillate.js to add dynamic and animated text effects.
-- Video Control: Implemented a custom video pause/play button for enhanced user interaction.
-- GoEye Effect: Applied the unique "GoEye" effect using Shery.js for an eye-catching and modern look.
+- **Interactive Animations:** Utilized GSAP (GreenSock Animation Platform) to create smooth and engaging animations.
+- **Dynamic Text Effects:** Integrated Textillate.js to add dynamic and animated text effects.
+- **Video Control:** Implemented a custom video pause/play button for enhanced user interaction.
+- **GoEye Effect:** Applied the unique "GoEye" effect using Shery.js for an eye-catching and modern look.
 
 
 ## Tech Stack
 
-- HTML: Markup language for structuring the web content.
-- CSS: Utility-first CSS framework for rapid UI development.
-- JavaScript: Programming language for implementing interactive features.
-- GSAP: Animation library for creating high-performance animations.
-- Shery.js: Library for implementing the "GoEye" effect.
-- Textillate.js: Library for adding animated text effects.
+- **HTML:** Markup language for structuring the web content.
+- **CSS:** Utility-first CSS framework for rapid UI development.
+- **JavaScript:** Programming language for implementing interactive features.
+- **GSAP:** Animation library for creating high-performance animations.
+- **Shery.js:** Library for implementing the "GoEye" effect.
+- **Textillate.js:** Library for adding animated text effects.
 
 
 ## Acknowledgements
