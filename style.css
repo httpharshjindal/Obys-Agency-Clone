@@ -11,8 +11,6 @@ html, body{
     height: 100%;
     width: 100%;
     /* overflow: hidden; */
-    user-select:none;
-    cursor: none;
 }
 
 a{
@@ -801,10 +799,6 @@ a{
         box-sizing: border-box;
         font-family: "Plain Light";
         color: #fff;
-    }
-    
-    html, body{
-        cursor:auto;
     }
 
     .mousefollower{
